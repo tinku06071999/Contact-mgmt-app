@@ -57,7 +57,7 @@ Here are some screenshots of this app:
 
 ## Demo Link
 
-Check out the live demo of the Netflix clone [here](https://taiyo-ai-project.netlify.app/).
+Check out the live demo of the Netflix clone [here](https://contact-mamgmt-app.netlify.app/).
 
 ## App Structure
 
@@ -75,7 +75,3 @@ For more information on the API endpoints used, please refer to the following li
 - World wide data of cases: [https://disease.sh/v3/covid-19/all](https://disease.sh/v3/covid-19/all)
 - Country-specific data of cases: [https://disease.sh/v3/covid-19/countries](https://disease.sh/v3/covid-19/countries)
 - Graph data for cases with date: [https://disease.sh/v3/covid-19/historical/all?lastdays=all](https://disease.sh/v3/covid-19/historical/all?lastdays=all)
-
-## License
-
-This project is licensed under the MIT License.
