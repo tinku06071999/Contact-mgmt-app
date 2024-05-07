@@ -50,10 +50,10 @@ The app is built using the following technologies:
 ## Screenshots
 
 Here are some screenshots of this app:
-![Vite + React + TS (3)](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/01375c73-2b22-4ef6-863a-5970e04f67a4)
-![Vite + React + TS](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/c5dbad9e-413a-4af0-8dc1-7bd4a28d1e02)
-![Vite + React + TS (1)](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/e33de6ba-cd6e-4a30-a4d8-2c5b476a6895)
-![Vite + React + TS (2)](https://github.com/Milan-98/Taiyo.Ai-Project/assets/114464208/c479a856-fbde-401b-aada-e9e0fc0fe810)
+![Vite + React + TS (3)](https://github.com/tinku06071999/contact-mgmt-app/blob/main/src/assets/contact%20page.png)
+![Vite + React + TS](https://github.com/tinku06071999/contact-mgmt-app/blob/main/src/assets/contact%20page1.png)
+![Vite + React + TS (1)](https://github.com/tinku06071999/contact-mgmt-app/blob/main/src/assets/edit%20contct.png)
+![Vite + React + TS (2)](https://github.com/tinku06071999/contact-mgmt-app/blob/main/src/assets/world-map.png)
 
 ## Demo Link
 

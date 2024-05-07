@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      input: 'src/index.tsx', // Adjust this to your entry file
+      input: 'public/index.html', // Adjust this to your entry file
     }
   },
 })
