@@ -24,13 +24,17 @@ Follow the instructions below to set up and run the app:
 1. Install Node.js and npm (Node Package Manager) if they are not already installed on your machine.
 2. Clone the repository and navigate to the project directory.
 3. Install the project dependencies by running the following command:
+
 ```
 npm install
 ```
+
 4. Start the development server by running the following command:
+
 ```
 npm start
 ```
+
 5. Open a web browser and access the app at [http://localhost:3000](http://localhost:3000).
 
 ## Technologies Used
@@ -62,7 +66,7 @@ The app follows a well-structured architecture that promotes maintainability and
 ## Responsive Design
 
 The app is designed to be responsive and optimized for both desktop and mobile devices. It adapts to different screen sizes to provide a seamless user experience.
-Date:19 May 2023, Day 158 Of WebDev
+Date:07 May 2024, Day 158 Of WebDev
 
 ## Documentation
 
@@ -72,11 +76,6 @@ For more information on the API endpoints used, please refer to the following li
 - Country-specific data of cases: [https://disease.sh/v3/covid-19/countries](https://disease.sh/v3/covid-19/countries)
 - Graph data for cases with date: [https://disease.sh/v3/covid-19/historical/all?lastdays=all](https://disease.sh/v3/covid-19/historical/all?lastdays=all)
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to submit a pull request. Any contributions are greatly appreciated!
-
 ## License
 
 This project is licensed under the MIT License.
-
