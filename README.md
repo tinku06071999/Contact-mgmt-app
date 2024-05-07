@@ -47,14 +47,6 @@ The app is built using the following technologies:
 - **React Router v6**: Routing library for React applications.
 - **Axios**: A popular JavaScript library for making HTTP requests.
 
-## Screenshots
-
-Here are some screenshots of this app:
-![Vite + React + TS (3)](https://postimg.cc/FdVKtJBJ)
-![Vite + React + TS](https://ibb.co/3NP4Y2M)
-![Vite + React + TS (1)](https://ibb.co/hy9RL5Y)
-![Vite + React + TS (2)](https://ibb.co/mBT589K)
-
 ## Demo Link
 
 Check out the live demo of the Netflix clone [here](https://contact-mamgmt-app.netlify.app/).
